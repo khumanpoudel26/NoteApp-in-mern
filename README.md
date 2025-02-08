@@ -1,5 +1,7 @@
 This is a NoteApp built using the MERN stack on an Android phone.
 
+⚠️Note:- the website isn't responsive for bigger devices(pc)
+ 
 Tools Used:
 Acode (Code Editor)
 Termux (Terminal Emulator)
